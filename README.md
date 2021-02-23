@@ -6,7 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Wanted to create a standard application layout with Header, Footer, collapsable sidebar and main content in React. The project uses react-router-dom for routing and styled-components.
 
-  "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.6.3",
